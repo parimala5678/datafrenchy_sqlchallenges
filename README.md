@@ -8,11 +8,13 @@ and deriving insights that drive decision-making.
 ## Challenges
 Each challenge folder contains:  
 
-**Challenge Overview:** Description of the challenge objectives and key questions.  
+**Challenge Overview:** Description of the challenge objectives and key questions. 
+
 **SQL Queries:** The scripts developed to clean, transform, and analyze the data.  
 
 ## Key Skills Developed
 Through these challenges, I strengthened my skills in:  
 
 **Query Optimization:** Writing efficient, performant SQL queries.  
+
 **Analytical Thinking:** Breaking down complex questions and translating them into SQL solutions.
