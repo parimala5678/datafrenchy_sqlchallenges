@@ -12,4 +12,7 @@ In this challenge, we dive into data analysis for NorthWind Traders, a global im
 
 **Top Customers by Order Value:** Identify the top 3 customers by total order value, including freight costs.
 
+## Files
+**Dataset:** Contains the datafrenchy dataset and the data dictionary, which details the structure and attributes of the dataset used in this challenge.
 
+**SQL File:** Includes the SQL solutions for each question in the challenge, organized to address the insights and requirements provided
