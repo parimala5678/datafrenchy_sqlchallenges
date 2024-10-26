@@ -1,0 +1,15 @@
+,,
+,Column Name,Description
+,id,Employee ID
+,first_name,First name of the employee.
+,last_name,Last name of the employee.
+,birthdate,Employee's birthdate in MM/DD/YYYY format.
+,hire_date,Date when the employee was hired in MM/DD/YYYY format.
+,department,The department where the employee works.
+,jobtitle,Job title of the employee.
+,salary,Employee’s salary in USD dollars.
+,location_city,City where the employee is located.
+,location_state,State or region where the employee is located.
+,conditions,Office location of employee.
+,,
+,Main Location,"Cleveland, Ohio"
